@@ -1,0 +1,224 @@
+#EXTM3U url-tvg="http://192.168.0.20:1200/fm/downloadFileUrl?action=download&path=%2FInternal+storage%2FMusic%2FTV.xmltv" x-tvg-url="http://192.168.0.20:1200/fm/downloadFileUrl?action=download&path=%2FInternal+storage%2FMusic%2FTV.xmltv"
+#EXTINF:-1 tvg-id="MBC1.ae" tvg-name="Kurdmax" tvg-logo="https://pbs.twimg.com/profile_images/2305594852/h9fuwiev5f5847jo0351_400x400.png" tvg-chno="1" channel-id="1" tvg-logo-small="https://pbs.twimg.com/profile_images/2305594852/h9fuwiev5f5847jo0351_400x400.png" group-title="Live",Kurdmax
+https://5aa8c7549bfa9.streamlock.net/liveTrans/ngrp:myStream_all/chunklist_w1170862249_b1667072.m3u8
+#EXTINF:-1 tvg-id="MBC4.sa" tvg-name="Kurdmax Show" tvg-logo="https://1.bp.blogspot.com/-NE37uhJuStM/XtTkID6a-kI/AAAAAAAAAog/xnAR9JCOLS8tlDJ49XnmXebK4JLjLcKYACNcBGAsYHQ/s175/kurdmax%2Bshow.png" tvg-chno="2" channel-id="2" tvg-logo-small="https://i.imgur.com/lJYTdQr.png" group-title="Live",Kurdmax Show
+http://31.14.40.139:1935/liveTrans/SHOW1/playlist.m3u8
+#EXTINF:-1 tvg-id="MBC4.sa" tvg-name="Net TV" tvg-logo="https://lh3.googleusercontent.com/CuVPp0QmEMi3yrrcEQFPaiVXTEkKurocDs7Ti-d1DAN8qDqco_ntRgBh0jteMaqOVK77" tvg-chno="3" channel-id="3" tvg-logo-small="https://lh3.googleusercontent.com/CuVPp0QmEMi3yrrcEQFPaiVXTEkKurocDs7Ti-d1DAN8qDqco_ntRgBh0jteMaqOVK77" group-title="Live",Net TV
+http://nettvstreampaid.flashmediacast.com:1935/nettvstreampaid/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="MBCDrama.ae" tvg-name="Kurdsat" tvg-logo="https://sites.google.com/site/broadcastingnetworks/_/rsrc/1385287868303/television/kurdsat-tv-iraq/kurdsat.png" tvg-chno="4" channel-id="4" tvg-logo-small="https://i.imgur.com/7BDN2ou.png" group-title="Live",Kurdsat
+https://bozztv.com/36bay2/gin/giniko_kurdsat_700kb_36bay2/playlist.m3u8
+#EXTINF:-1 tvg-id="MBCBollywood.sa" tvg-name="Rudaw" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/Rudaw.png" tvg-chno="5" channel-id="5" tvg-logo-small="https://cdn.sat.tv/wp-content/uploads/2016/05/Rudaw.png" group-title="Live",Rudaw
+https://svs.itworkscdn.net/rudawlive/rudawlive.smil/rudawtv_chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Dxq4dqb.png" group-title="Live",Kurdistan TV
+https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="MBC1.ae" tvg-name="MBC 1" tvg-logo="https://static.epg.best/ae/MBC1.ae.png" tvg-chno="6" channel-id="6" tvg-logo-small="https://static.epg.best/ae/MBC1.ae.png" group-title="Live",MBC 1
+https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index_1.m3u8
+#EXTINF:-1 tvg-id="MBC2.ae" tvg-name="MBC 2" tvg-logo="https://static.epg.best/ae/MBC2.ae.png" tvg-chno="7" channel-id="7" tvg-logo-small="https://static.epg.best/ae/MBC2.ae.png" group-title="Live",MBC 2
+https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_1.m3u8
+#EXTINF:-1 tvg-id="MBC3En.ae" tvg-name="MBC 3" tvg-logo="https://static.epg.best/ae/MBC3En.ae.png" tvg-chno="8" channel-id="8" tvg-logo-small="https://static.epg.best/ae/MBC3En.ae.png" group-title="Live",MBC 3
+https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_1.m3u8
+#EXTINF: -1 tvg-logo="https://static.epg.best/sa/MBC4.sa.png" group-title="Live", MBC 4
+https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index_1.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/MBC5_logo.png" group-title="Live", MBC 5
+https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_1.m3u8
+#EXTINF:-1 tvg-id="MBCDrama.ae" tvg-name="MBC Drama" tvg-logo="https://shahidstatic1.akamaized.net/mediaObject/Waseem/untitled0/mbc-drama-logo-channel/original/mbc-drama-logo-channel.png?height=189&width=NaN&croppingPoint=mc&q=100&type=png" group-title="Live",MBC Drama
+https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index_1.m3u8
+#EXTINF: -1 tvg-logo="https://shahidstatic1.akamaized.net/mediaObject/Waseem/untitled0/mbc-drama-logo-channel/original/mbc-drama-logo-channel.png?height=189&width=NaN&croppingPoint=mc&q=100&type=png" group-title="Live", MBC Drama Plus
+https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_1.m3u8
+#EXTINF: -1 tvg-logo="https://shahidstatic1.akamaized.net/mediaObject/Waseem/untitled0/mbc-action-logo-channel/original/mbc-action-logo-channel.png?height=189&width=NaN&croppingPoint=mc&q=100&type=png" group-title="Live", MBC Action
+https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_1.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co/HFhbt5g/MBC-Max-logo.png" group-title="Live", MBC Max
+https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_1.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/MBC_BOLLYWOOD.png" group-title="Live", MBC Bollywood
+https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_1.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/MBC_Masr_Logo.png" group-title="Live",MBC Masr
+https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index_1.m3u8
+#EXTINF:-1 tvg-logo="https://shahidstatic1.akamaized.net/mediaObject/Waseem/untitled0/mbc-masr-2-logo-channel/original/mbc-masr-2-logo-channel.png?height=189&width=NaN&croppingPoint=mc&q=100&type=png" group-title="Live",MBC Masr 2
+https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_1.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/5/51/Wanasah.png" group-title="Live", MBC Wanasa
+https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index_1.m3u8
+#EXTINF: -1 tvg-logo="https://www.mbc.net/dam/jcr:0372b6d7-467a-4021-ada8-b19581ca450d/mbc-iraq.png" group-title="Live", MBC Iraq
+https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index_1.m3u8
+#EXTINF: -1 tvg-logo="https://www.mbc.net/dam/jcr:8ac0da50-ee9a-45f3-a4a7-a76d4bf5deb4/mbc-fm.png" group-title="Live", MBC FM
+https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index_1.m3u8
+#EXTINF:-1 tvg-id="RotanaClassic.eg" tvg-name="Rotana Classic" tvg-logo="https://static.epg.best/eg/RotanaClassic.eg.png" tvg-chno="11" channel-id="11" tvg-logo-small="https://static.epg.best/eg/RotanaClassic.eg.png" group-title="Live",Rotana Classic
+https://rotana.hibridmedia.com/rotana/classical_dabr/rotana/classical_1080p/chunks.m3u8
+#EXTINF:-1 tvg-id="RotanaCinema.eg" tvg-name="Rotana Cinema" tvg-logo="https://static.epg.best/eg/RotanaCinema.eg.png" tvg-chno="12" channel-id="12" tvg-logo-small="https://static.epg.best/eg/RotanaCinema.eg.png" group-title="Live",Rotana Cinema
+https://rotana.hibridmedia.com/rotana/cinema_dabr/playlist.m3u8
+#EXTINF:-1 tvg-id="RotanaAflam.eg" tvg-name="Rotana Aflam" tvg-logo="https://static.epg.best/eg/RotanaAflam.eg.png" tvg-chno="13" channel-id="15" tvg-logo-small="https://static.epg.best/eg/RotanaAflam.eg.png" group-title="Live",Rotana Aflam
+https://rotana.hibridmedia.com/rotana/comedy_dabr/rotana/comedy_1080p/chunks.m3u8
+#EXTINF:-1 tvg-id="RotanaDramaAr.eg" tvg-name="Rotana Drama" tvg-logo="https://static.epg.best/eg/RotanaCinema.eg.png" tvg-chno="16" channel-id="16" tvg-logo-small="https://static.epg.best/eg/RotanaCinema.eg.png" group-title="Live",Rotana Drama
+https://rotana.hibridmedia.com/rotana/drama_dabr/rotana/drama_1080p/chunks.m3u8
+#EXTINF: -1 tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/khalijiat.png" group-title="Live", Rotana Khalijia
+https://rotana.hibridmedia.com/rotana/khaleejiya_dabr/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/kids.png" group-title="Live", Rotana Kids
+https://rotana.hibridmedia.com/rotana/kids_dabr/playlist.m3u8
+#EXTINF:-1 tvg-id="1258" tvg-logo="https://i.imgur.com/ThVbcVq.png" group-title="Live",Al Kass Sports 1
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
+#EXTINF:-1 tvg-id="1259" tvg-logo="https://i.imgur.com/ThVbcVq.png" group-title="Live",Al Kass Sports 2
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
+#EXTINF:-1 tvg-id="1260" tvg-logo="https://i.imgur.com/ThVbcVq.png" group-title="Live",Al Kass Sports 3
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
+#EXTINF:-1 tvg-id="1261" tvg-logo="https://i.imgur.com/ThVbcVq.png" group-title="Live",Al Kass Sports 4
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
+#EXTINF:-1 tvg-id="1262" tvg-logo="https://i.imgur.com/ThVbcVq.png" group-title="Live",Al Kass Sports 5
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-oBOdmNWb_T8/WVBAORGYeUI/AAAAAAAAHWc/iAPGXYSy0aAC9lX-5H7iohPVEq1Iiog_ACLcBGAs/s1600/abu_dhabi_sports_ae_4.png" group-title="Live", Abu Dhabi Sports 1
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-oBOdmNWb_T8/WVBAORGYeUI/AAAAAAAAHWc/iAPGXYSy0aAC9lX-5H7iohPVEq1Iiog_ACLcBGAs/s1600/abu_dhabi_sports_ae_4.png" group-title="Live", Abu Dhabi Sports 2
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-oBOdmNWb_T8/WVBAORGYeUI/AAAAAAAAHWc/iAPGXYSy0aAC9lX-5H7iohPVEq1Iiog_ACLcBGAs/s1600/abu_dhabi_sports_ae_4.png" group-title="Live", Abu Dhabi Sports 3
+https://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/eytrf0Y.png" group-title="Live", Dubai Racing 1
+https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/eytrf0Y.png" group-title="Live", Dubai Racing 2
+https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/eytrf0Y.png" group-title="Live", Dubai Racing 3
+https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://www.logolynx.com/images/logolynx/d9/d9ef18eb544187cf05ce58ad3e2a4db1.png" group-title="Live", Dubai Sports 1
+https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8
+#EXTINF: -1 tvg-logo="https://www.logolynx.com/images/logolynx/d9/d9ef18eb544187cf05ce58ad3e2a4db1.png" group-title="Live", Dubai Sports 2
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
+#EXTINF: -1 tvg-logo="https://www.logolynx.com/images/logolynx/d9/d9ef18eb544187cf05ce58ad3e2a4db1.png" group-title="Live", Dubai Sports 3
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
+#EXTINF:-1 tvg-id="RotanaDramaAr.eg" tvg-name="Quran" tvg-logo="https://i.pinimg.com/originals/22/f9/5b/22f95b7118e0252dbcc9ffae5e95c866.png" tvg-logo-small="https://i.pinimg.com/originals/22/f9/5b/22f95b7118e0252dbcc9ffae5e95c866.png" group-title="Live",Quran
+http://185.105.4.106:1935/live/Bahrain%20Quran/chunklist.m3u8?v=1548640033
+#EXTINF:-1 tvg-id="SkyNewsArabia.sa" tvg-name="Sky News" tvg-logo="https://static.epg.best/sa/SkyNewsArabia.sa.png" tvg-chno="18" channel-id="18" tvg-logo-small="https://static.epg.best/sa/SkyNewsArabia.sa.png" group-title="Live",Sky News
+https://stream.skynewsarabia.com/hls/sna_720.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/LNI1HNi.png" group-title="Live", Al Araby
+https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://www.zagrosnews.net/sites/default/files/zagros-logo-01_1.png" group-title="Live", Zagros
+https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="BBCNews.Live" tvg-name="BBC News" tvg-logo="https://www.pngkey.com/png/full/337-3372847_bbc-bbc-3-logo-png.png" tvg-chno="19" channel-id="19" tvg-logo-small="https://www.pngkey.com/png/full/337-3372847_bbc-bbc-3-logo-png.png" group-title="Live",BBC News
+http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_news24.m3u8
+#EXTINF:-1 tvg-id="BBCNews.Live" tvg-name="BBC Parliament" tvg-logo="https://www.pngkey.com/png/full/337-3372847_bbc-bbc-3-logo-png.png" tvg-chno="19" channel-id="19" tvg-logo-small="https://www.pngkey.com/png/full/337-3372847_bbc-bbc-3-logo-png.png" group-title="Live",BBC Parliament
+hhttp://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_parliament.m3u8
+#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/337-3372847_bbc-bbc-3-logo-png.png" group-title="Live",BBC World News
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+#EXTINF:-1 tvg-id="RT UK" tvg-name="RT" tvg-logo="https://i.imgur.com/ULzpPky.png" group-title="Live",RT
+http://rt-uk.secure.footprint.net/1106.m3u8?streamType=live
+#EXTINF: -1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/weatherchannel.png" group-title="Live", The Weather Channel
+https://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+#EXTINF: -1 tvg-logo="https://dev.dishpromotions.com/wp-content/uploads/F24EN-logo.png" group-title="Live", France 24 English
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/American_Broadcasting_Company_Logo.svg/767px-American_Broadcasting_Company_Logo.svg.png" group-title="Live", ABC News 1
+https://abclive1-lh.akamaihd.net/i/abc_live01@423395/master.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/American_Broadcasting_Company_Logo.svg/767px-American_Broadcasting_Company_Logo.svg.png" group-title="Live", ABC News 2
+https://abclive1-lh.akamaihd.net/i/abc_live02@423396/master.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/American_Broadcasting_Company_Logo.svg/767px-American_Broadcasting_Company_Logo.svg.png" group-title="Live", ABC News 3
+https://abclive1-lh.akamaihd.net/i/abc_live03@423397/master.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/American_Broadcasting_Company_Logo.svg/767px-American_Broadcasting_Company_Logo.svg.png" group-title="Live", ABC News 4
+https://abclive1-lh.akamaihd.net/i/abc_live04@423398/master.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/American_Broadcasting_Company_Logo.svg/767px-American_Broadcasting_Company_Logo.svg.png" group-title="Live", ABC News 5
+https://abclive1-lh.akamaihd.net/i/abc_live05@423399/master.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/American_Broadcasting_Company_Logo.svg/767px-American_Broadcasting_Company_Logo.svg.png" group-title="Live", ABC News 6
+https://abclive1-lh.akamaihd.net/i/abc_live06@423400/master.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/American_Broadcasting_Company_Logo.svg/767px-American_Broadcasting_Company_Logo.svg.png" group-title="Live", ABC News 7
+https://abclive1-lh.akamaihd.net/i/abc_live07@423401/master.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/American_Broadcasting_Company_Logo.svg/767px-American_Broadcasting_Company_Logo.svg.png" group-title="Live", ABC News 8
+https://abclive1-lh.akamaihd.net/i/abc_live08@423402/master.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/American_Broadcasting_Company_Logo.svg/767px-American_Broadcasting_Company_Logo.svg.png" group-title="Live", ABC News 9
+https://abclive1-lh.akamaihd.net/i/abc_live09@420891/master.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/American_Broadcasting_Company_Logo.svg/767px-American_Broadcasting_Company_Logo.svg.png" group-title="Live", ABC News 10
+https://abclive1-lh.akamaihd.net/i/abc_live10@420897/master.m3u8
+#EXTINF:-1 tvg-name="Bloomberg EU" tvg-id="Bloomberg.nws" group-title="Live" tvg-logo="https://i.imgur.com/idRFfhY.png",Bloomberg EU
+https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_live.m3u8
+#EXTINF:-1 tvg-name="CGTN" tvg-id="" group-title="Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/345px-CGTN.svg.png",CGTN 
+http://live.cgtn.com/500/prog_index.m3u8
+#EXTINF:-1 tvg-id="BBC One HD" tvg-name="BBC One HD" tvg-logo="https://www.pngkey.com/png/full/337-3372847_bbc-bbc-3-logo-png.png" group-title="Live",BBC One
+http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_one_hd.m3u8
+#EXTINF:-1 tvg-id="BBC Two HD" tvg-name="BBC Two HD" tvg-logo="https://www.pngkey.com/png/full/337-3372847_bbc-bbc-3-logo-png.png" group-title="Live",BBC Two
+http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_two_england.m3u8
+#EXTINF: -1 tvg-logo="https://www.dcgvisionmarketing.com/wp-content/uploads/2020/06/Logo_Apple_Sauce_Network-thegem-gallery-justified.png" group-title="Live", Apple Sauce TV
+https://nimble.dashstreams.net/onestudio/applesaucetv/playlist.m3u8
+#EXTINF:-1 tvg-id="Pop.Live" tvg-name="POP" tvg-logo="https://i.imgur.com/vIQR1Fv.png" tvg-chno="20" channel-id="20" tvg-logo-small="https://i.imgur.com/vIQR1Fv.png" group-title="Live",POP
+https://edge-1192-ch-gv.filmon.com/live/320.low.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="KidCentral.Live" tvg-name="Kid Central" tvg-logo="https://www.accesswire.com/users/newswire/images/593608/kid-central-tran.png" tvg-chno="18" channel-id="18" tvg-logo-small="https://www.accesswire.com/users/newswire/images/593608/kid-central-tran.png" group-title="Live",Kid Central
+http://nrpus.bozztv.com/36bay2/gusa-kidcentral/index.m3u8
+#EXTINF:-1 tvg-id="CBBC HD" tvg-name="CBBC HD" tvg-logo="https://www.pngkey.com/png/full/337-3372847_bbc-bbc-3-logo-png.png" group-title="Live",CBBC
+http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/cbbc.m3u8
+#EXTINF:-1 tvg-id="CBeebies HD" tvg-name="CBeebies HD" tvg-logo="https://www.pngkey.com/png/full/337-3372847_bbc-bbc-3-logo-png.png" group-title="Live",CBeebies
+http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/cbeebies.m3u8
+#EXTINF:-1 group-title="Live" tvg-logo="https://i.imgur.com/kdgMVOI.png",Knowledge Network
+http://knstream1.azureedge.net/knlive/knlive_high.m3u8
+#EXTINF:-1 tvg-id="944" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/QVC_logo_2015.png" group-title="Live",QVC
+http://live.qvcuk.simplestreamcdn.com/live/qvcuk_main_clean/bitrate1.isml/live.m3u8
+#EXTINF:-1 tvg-id="945" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/QVC_logo_2015.png" group-title="Live",QVC +1
+http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi1/live.m3u8
+#EXTINF:-1 tvg-id="946" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/QVC_logo_2015.png" group-title="Live",QVC Beauty
+http://live.qvcuk.simplestreamcdn.com/live/qvcuk_beauty_clean/bitrate1.isml/live.m3u8
+#EXTINF:-1 tvg-id="947" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/QVC_logo_2015.png" group-title="Live",QVC Style
+http://live.qvcuk.simplestreamcdn.com/live/qvcuk_style_clean/bitrate1.isml/live.m3u8
+#EXTINF:-1 tvg-id="948" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/QVC_logo_2015.png" group-title="Live",QVC Extra
+http://live.qvcuk.simplestreamcdn.com/live/qvcuk_extra_clean/bitrate1.isml/live.m3u8
+#EXTINF:-1 tvg-logo="https://images.vexels.com/media/users/3/152304/isolated/preview/973ba006d96e396f17828278c4193dc5-augmented-reality-360-sphere-icon-by-vexels.png" group-title="Live",360 Action
+https://www.filmon.com/vr-streams/4136.high/playlist.m3u8
+#EXTINF:-1 tvg-id="TG4 UK" tvg-name="TG4" tvg-logo="https://i1.wp.com/pouncepictures.com/wp-content/uploads/2019/12/TG4_Logo_White@x3.png?fit=961%2C761&ssl=1" group-title="Live",TG4
+http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eD8zkhY.png" group-title="Live",Cruise1st TV
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/cruise_tv/hls_video/index.m3u8
+#EXTINF:-1 tvg-name="Fashion TV" tvg-id="FashionTV.eu" group-title="Live" tvg-logo="https://seeklogo.com/images/1/4ftv-logo-248AF9DBA3-seeklogo.com.png",Fashion TV
+http://entertainment.ashttp9.visionip.tv/live/visiontvuk-entertainment-edgytv-hsslive-25f-16x9-SD/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png" group-title="Live", NASA TV
+https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
+#EXTINF:-1 tvg-name="Sports Tonight" tvg-id="FreeSports.uk" group-title="Live" tvg-logo="http://www.sportstonightlive.com/img/logo.png",Sports Tonight
+http://sports.ashttp9.visionip.tv/live/visiontvuk-sports-sportstonightlive-hsslive-25f-4x3-SD/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Red Bull TV" tvg-logo="https://logos-download.com/wp-content/uploads/2016/09/Red_Bull_TV_logo.png" group-title="Live",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Logo_fox_sports_2012.png" group-title="Live", FOX Sport
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
+#EXTINF:-1 group-title="Live" tvg-logo="https://i.imgur.com/ZSfrcxH.png",Tennis Channel
+https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5sIgTki.png" group-title="Live",Olympics 1
+http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5sIgTki.png" group-title="Live",Olympics 2
+https://ott-live.olympicchannel.com/out/u/OC2_1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5sIgTki.png" group-title="Live",Olympics 3
+https://ott-live.olympicchannel.com/out/u/OC3_1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5sIgTki.png" group-title="Live",Olympics 4
+https://ott-live.olympicchannel.com/out/u/OC4_1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5sIgTki.png" group-title="Live",Olympics 5
+https://ott-live.olympicchannel.com/out/u/OC5_1.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Earth_Western_Hemisphere_transparent_background.png/1024px-Earth_Western_Hemisphere_transparent_background.png" tvg-chno="25" channel-id="25" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Earth_Western_Hemisphere_transparent_background.png/1024px-Earth_Western_Hemisphere_transparent_background.png" group-title="Live",Abbey Road
+https://videos3.earthcam.com/fecnetwork/AbbeyRoadHD1.flv/chunklist_w1096421812.m3u8
+#EXTINF:-1 group-title="Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Earth_Western_Hemisphere_transparent_background.png/1024px-Earth_Western_Hemisphere_transparent_background.png",New York City (1)
+https://videos3.earthcam.com/fecnetwork/4017timessquare.flv/chunklist_w2120301051.m3u8
+#EXTINF:-1 group-title="Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Earth_Western_Hemisphere_transparent_background.png/1024px-Earth_Western_Hemisphere_transparent_background.png",New York City (2)
+https://videos3.earthcam.com/fecnetwork/9974.flv/chunklist_w1802587375.m3u8
+#EXTINF:-1 group-title="Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Earth_Western_Hemisphere_transparent_background.png/1024px-Earth_Western_Hemisphere_transparent_background.png",Sandusky
+http://cs2.pixelcaster.com:1935/live/cedar1.stream/playlist.m3u8
+#EXTINF:-1 group-title="Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Earth_Western_Hemisphere_transparent_background.png/1024px-Earth_Western_Hemisphere_transparent_background.png",Toronto
+https://video2archives.earthcam.com/archives/_definst_/MP4:permanent/4559/2019/08/11/1300.mp4/chunklist_w1595912559.m3u8
+#EXTINF:-1 group-title="Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Earth_Western_Hemisphere_transparent_background.png/1024px-Earth_Western_Hemisphere_transparent_background.png",Biarritz
+https://5c8a7c996322e.streamlock.net/live/AquariumBiarritz-RocherdelaVierge-1080p/chunklist_w1767223388.m3u8
+https://cdn-003.whatsupcams.com/hls/es_lmar1.m3u8
+#EXTINF:-1 group-title="Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Earth_Western_Hemisphere_transparent_background.png/1024px-Earth_Western_Hemisphere_transparent_background.png",Potes
+https://5811bd721519c.streamlock.net:1936/live/livecam023.stream/playlist.m3u8
+#EXTINF:-1 group-title="Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Earth_Western_Hemisphere_transparent_background.png/1024px-Earth_Western_Hemisphere_transparent_background.png",Sagres
+https://camsecure.co/HLS/sagressholidays.m3u8
+#EXTINF:-1 group-title="Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Earth_Western_Hemisphere_transparent_background.png/1024px-Earth_Western_Hemisphere_transparent_background.png",Rio de Janeiro
+https://video2archives.earthcam.com/archives/_definst_/MP4:permanent/6593/2017/10/01/1300.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Earth_Western_Hemisphere_transparent_background.png/1024px-Earth_Western_Hemisphere_transparent_background.png",Łeba
+https://streaming.airmax.pl/atlantiskspj21/tracks-v1/index.m3u8
+#EXTINF:-1 group-title="Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Earth_Western_Hemisphere_transparent_background.png/1024px-Earth_Western_Hemisphere_transparent_background.png",Nablus
+http://htvmada.mada.ps:8888/nabluslive/index.m3u8`
+#EXTINF:-1 group-title="Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Earth_Western_Hemisphere_transparent_background.png/1024px-Earth_Western_Hemisphere_transparent_background.png",Shanghai
+http://bililive.kksmg.com/hls/sdi80/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/05/The_Heart_Network_logo.svg/1200px-The_Heart_Network_logo.svg.png" tvg-chno="22" channel-id="22" tvg-logo-small="https://upload.wikimedia.org/wikipedia/en/thumb/0/05/The_Heart_Network_logo.svg/1200px-The_Heart_Network_logo.svg.png" group-title="Live",Heart
+http://media-sov.musicradio.com/HeartLondonMP3
+#EXTINF:-1 tvg-logo="https://www.makesomenoise.com/wp-content/uploads/2014/08/capitalfm-large.png" tvg-chno="23" channel-id="23" tvg-logo-small="https://www.makesomenoise.com/wp-content/uploads/2014/08/capitalfm-large.png" group-title="Live",Capital
+http://media-sov.musicradio.com:80/CapitalMP3
+#EXTINF:-1 tvg-id="BBCRadioTV.Live" tvg-name="BBC Radio 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/BBC_Radio_1.svg/1280px-BBC_Radio_1.svg.png" tvg-chno="24" channel-id="24" tvg-logo-small="https://www.ibizarocks.com/wp-content/uploads/2020/04/1200px-BBC_Radio_1.png" group-title="Live",BBC Radio
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1_mf_p
+#EXTINF:-1 tvg-id="" tvg-name=BBC Radio 2"" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/BBC_Radio_2.svg/1024px-BBC_Radio_2.svg.png" group-title="Live",BBC Radio 2
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio2_mf_p
+#EXTINF:-1 tvg-id="BBCRadioIdiot" tvg-name="BBC Radio 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/BBC_Radio_3.svg/1200px-BBC_Radio_3.svg.png" group-title="Live",BBC Radio 3
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio3_mf_p
+#EXTINF:-1 tvg-id="BBCRadioIdiot" tvg-name="BBC Radio 4" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/BBC_Radio_4.svg/1280px-BBC_Radio_4.svg.png" group-title="Live",BBC Radio 4
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio4fm_mf_p
+#EXTINF:-1 tvg-id="BBCRadioIdiot" tvg-name="BBC Radio 5" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/BBC_Radio_5_Live.svg/1200px-BBC_Radio_5_Live.svg.png" group-title="Live",BBC Radio 5
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio5live_mf_p
+#EXTINF:-1 tvg-id="BBCRadioIdiot" tvg-name="BBC Radio 6" tvg-logo="https://assets.stickpng.com/images/5e8cec7a664eae000408547a.png" group-title="Live",BBC Radio 6
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_6music_mf_p
+#EXTINF:-1 tvg-name="Kool London Radio" tvg-id="" group-title="Live" tvg-logo="http://undergroundbass.co.uk/image/koollondon.png",Kool London Radio
+http://w11.streamgb.com:1935/kool/kool/playlist.m3u8
