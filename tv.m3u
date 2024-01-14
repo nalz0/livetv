@@ -1,0 +1,43 @@
+#EXTM3U 
+#EXTINF: -1 tvg-logo="https://play-lh.googleusercontent.com/DeNLwPxY91Y4-nFx2J1BC8omrGa49MiSxt0iipQCpqyQI3ZW6P6A9hTeJI0znhlcWGGN" group-title="TV", KurdMax
+https://6476e46b58f91.streamlock.net/liveTrans/KurdmaxS0rani!/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/XTmyGmL.png" group-title="TV", KurdMax Show
+https://6476e46b58f91.streamlock.net/liveTrans/SHOW1/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/pG7ivye.png" group-title="TV", KurdMax Music
+https://6476e46b58f91.streamlock.net/music/livestream/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/9QWs2ms.png" group-title="TV", Kurdistan 24
+https://d1x82nydcxndze.cloudfront.net/live/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/UAbSwYA.png" group-title="TV", Kurdsat
+https://ikomg2.mmdlive.lldns.net/ikomg2/366ca61db4c646a2bf9cd9f92dd6321c/manifest.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/NRT_TV.png" group-title="TV", NRT TV
+https://media.streambrothers.com:1936/8226/8226/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/7bRVpnu.png" group-title="TV", Al Jazeera Arabic
+https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/ScyTG6P.png" group-title="TV", BBC Arabic
+https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_Arabic_logo.png/512px-Cartoon_Network_Arabic_logo.png" group-title="TV", Cartoon Network Arabia
+https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/CiA3plN.png" group-title="TV", MBC 1 (1080p)
+https://mbc1-enc.edgenextcdn.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/PVt8OPN.png" group-title="TV", MBC 3 EUR (1080p)
+https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/BcXASJp.png" group-title="TV", MBC 4 (1080p)
+https://mbc4-prod-dub-ak.akamaized.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/fRWaDyF.png" group-title="TV", MBC 5 (1080p)
+https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/g5PWnqp.png" group-title="TV", MBC Drama
+https://mbcdrama-usa-ak.akamaized.net/out/v1/876f960feec24a8aba9e9d3f9023174b/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/D0LxiPE.png" group-title="TV", MBC Iraq
+https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/pGgp38I.png" group-title="TV", Rotana Cinema
+https://shls-rotanacinema-ksa-prod-dub.shahid.net/out/v1/6cee1c57ea7841e697eb15cefc98e0a6/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/IlT8U6S.png" group-title="TV", Rotana Comedy
+https://daiconnect.com/live/hls/rotana/comedy/.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/btnhPjZ.png" group-title="TV", Rotana Drama
+https://daiconnect.com/live/hls/rotana/drama/.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/6HMluzv.png" group-title="TV", Rotana Khalijia
+https://shls-rotanakhalijia-prod-dub.shahid.net/out/v1/a639fd49db684f1b8c063d398101a888/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/2zFQbQi.png" group-title="TV", Rotana Music
+https://daiconnect.com/live/hls/rotana/music/.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/YQKf0tq.png" group-title="TV", Rotana Kids
+https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index.m3u8
